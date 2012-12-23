@@ -1,0 +1,9 @@
+{
+  "name": "rails_bower",
+  "version": "0.0.1",
+  "main": "javascripts/main.js",
+  "dependencies": {
+    "jquery": "latest",
+    "backbone": "latest"
+  }
+}
