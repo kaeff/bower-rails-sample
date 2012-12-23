@@ -1,7 +1,7 @@
-== bower-rails-sample
+## bower-rails-sample
 A small example of using Bower with Rails 4.
 
-== What's this?
+## What's this?
 
 > Bower is a generic tool which will resolve dependencies and lock packages down to a version. It runs over Git, and is package-agnostic. A package may contain JavaScript, CSS, images, etc., and doesn't rely on any particular transport (AMD, CommonJS, etc.).
 
